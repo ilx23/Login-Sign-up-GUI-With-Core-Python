@@ -22,7 +22,7 @@ Welcome to the Login & Sign-up GUI With Core Python project! This project provid
 2. **Install Dependencies:** No additional dependencies are required. This project uses core Python libraries only.
 
 3. **Run the Application:** Navigate to the project directory and run the following command:
-> ```app.py```
+> ```python app.py```
 
 4. **Login or Sign-up:** Choose whether to log in to an existing account or sign up for a new one.
 
